@@ -8,7 +8,7 @@ import urllib.request
 import shutil
 
 
-code='GAZP';
+code='LKOH';
 e='.txt';
 market='1'
 em='175924';
